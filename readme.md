@@ -46,7 +46,7 @@ To encrypt user data, I would implement end-to-end encryption using modern encry
 
 ## Video Walkthrough
 
-You can watch a short video walkthrough of the project [https://drive.google.com/file/d/1DOCgnxLTVNBLf-6cjFzAticY_XjOq5DR/view?usp=sharing](insert-link-to-video).
+You can watch a short video walkthrough of the project [here](https://drive.google.com/file/d/1DOCgnxLTVNBLf-6cjFzAticY_XjOq5DR/view?usp=sharing).
 
 
 For any questions or feedback, please reach out to me at [kiran.rokkam456@gmail.com].
