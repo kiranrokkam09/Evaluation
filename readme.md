@@ -39,14 +39,14 @@ To encrypt user data, I would implement end-to-end encryption using modern encry
 
 ## How to Run the Project
 
-1. Clone this repository: `git clone https://gitlab.com/your-username/evaluation.git`
-2. Navigate to the project directory: `cd evaluation`
+1. Clone this repository: `git clone https://github.com/kiranrokkam09/Evaluation`
+2. Navigate to the project directory: `cd Evaluation`
 3. Install dependencies for each task: `npm install`
 4. Start the application: `npm run dev`
 
 ## Video Walkthrough
 
-You can watch a short video walkthrough of the project [here](insert-link-to-video).
+You can watch a short video walkthrough of the project [https://drive.google.com/file/d/1DOCgnxLTVNBLf-6cjFzAticY_XjOq5DR/view?usp=sharing](insert-link-to-video).
 
 
 For any questions or feedback, please reach out to me at [kiran.rokkam456@gmail.com].
